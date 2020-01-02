@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+output/
+node_modules/
+dist/
+dll/build/
+package-lock.json
+dev-cookie.json
+.DS_Store
+
+# map files
+*.css.map
+
+nohup.out
