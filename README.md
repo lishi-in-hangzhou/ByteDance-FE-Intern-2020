@@ -275,8 +275,8 @@ git 大法最好的应该是《Git Pro》，下面是一些国内的链接，仅
 *  [webpack][webpack]
 *  [babel][babel]
 *  [node][node]
-       * node 框架可以自行学习 koa2/express  
-       * 推荐书籍《深入浅出 node.js》
+    * node 框架可以自行学习 koa2/express  
+    * 推荐书籍《深入浅出 node.js》
 *  前端单元测试(字节用的是 Jest + Enzyme)
     * [Mock](https://github.com/nuysoft/Mock/wiki)
     * [Karma](https://karma-runner.github.io/4.0/intro/installation.html)
